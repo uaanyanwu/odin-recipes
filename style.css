@@ -1,0 +1,27 @@
+h1 {
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+
+.jollof-rice {
+    background-color: ivory;
+    color: green;
+}
+
+.meat-pie, .puff-puff {
+    background-color: green;
+    color: white;
+}
