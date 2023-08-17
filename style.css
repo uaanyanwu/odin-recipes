@@ -34,3 +34,13 @@ ul, ol {
     border-radius: 25px;
     color: white;
 }
+
+div {
+    font-size: 20px;
+}
+
+.return {
+    color: red;
+    font-weight: 800
+
+}
