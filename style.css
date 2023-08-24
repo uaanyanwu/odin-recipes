@@ -44,3 +44,36 @@ div {
     font-weight: 800
 
 }
+
+.opening {
+    margin: 10px;
+}
+
+li {
+    margin: 10px;
+}
+
+.pie, .rice, .puff{
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 22px;
+}
+
+
+.name {
+    text-align: right;
+    margin-top: 150px;
+    margin-right: 20px;
+}
+
+.flag {
+    width: 300px;
+}
+
+.recipes {
+    margin-top: 40px;
+}
